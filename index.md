@@ -1,5 +1,3 @@
-# Janssen IT
-
 ## Wat doen wij?
 
 ### Automatisering
@@ -26,5 +24,3 @@ Software ontwikkeling voor snelle prototypes in Python, snelle software in C++, 
 
 Hulp en advies op maat.
 Vaak erg simpel, maar toch ontzettend belangrijk.
-
-#
